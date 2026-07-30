@@ -37,17 +37,19 @@ This repository documents my analytical workflow and contributions.
 ## Repository Contents
 
 ```
-project_data_preparation.html
+student_loan_data_preparation.ipynb
     Data cleaning and preprocessing
 
-project_code_R_myPart.ipynb
+student_loan_analysis.ipynb
     My R notebook containing exploratory analysis, statistical modeling, and interpretation
 
-project_code_R_myPart.html
-    Rendered HTML version of the notebook
-
-SourceFiles_download_instruction.pdf
+sourcefiles_download_instruction.pdf
     Instructions for obtaining the original dataset
+
+
+student_loan_analysis_report.pdf
+    Final report summarizing my individual contribution to the student loan analysis project
+
 ```
 
 ---
